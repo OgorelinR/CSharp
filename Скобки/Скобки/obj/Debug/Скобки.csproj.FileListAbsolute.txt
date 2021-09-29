@@ -1,0 +1,14 @@
+C:\Users\Rioko\source\repos\Скобки\Скобки\obj\Debug\Скобки.csprojAssemblyReference.cache
+C:\Users\Rioko\source\repos\Скобки\Скобки\obj\Debug\Скобки.csproj.CoreCompileInputs.cache
+C:\Users\Rioko\source\repos\Скобки\Скобки\bin\Debug\Скобки.exe.config
+C:\Users\Rioko\source\repos\Скобки\Скобки\bin\Debug\Скобки.exe
+C:\Users\Rioko\source\repos\Скобки\Скобки\bin\Debug\Скобки.pdb
+C:\Users\Rioko\source\repos\Скобки\Скобки\obj\Debug\Скобки.exe
+C:\Users\Rioko\source\repos\Скобки\Скобки\obj\Debug\Скобки.pdb
+C:\Users\Test\source\repos\Скобки\Скобки\bin\Debug\Скобки.exe.config
+C:\Users\Test\source\repos\Скобки\Скобки\bin\Debug\Скобки.exe
+C:\Users\Test\source\repos\Скобки\Скобки\bin\Debug\Скобки.pdb
+C:\Users\Test\source\repos\Скобки\Скобки\obj\Debug\Скобки.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\Скобки\Скобки\obj\Debug\Скобки.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Скобки\Скобки\obj\Debug\Скобки.exe
+C:\Users\Test\source\repos\Скобки\Скобки\obj\Debug\Скобки.pdb
